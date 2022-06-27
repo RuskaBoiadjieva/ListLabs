@@ -19,6 +19,11 @@ namespace _05._Remove_Negatives_and_Reverse
                     i--;
                 }
             }
+            if (numbers.Count==0)
+            {
+                Console.WriteLine("empty");
+                return;
+            }
             numbers.Reverse();
             Console.WriteLine(string.Join(' ', numbers));
         }

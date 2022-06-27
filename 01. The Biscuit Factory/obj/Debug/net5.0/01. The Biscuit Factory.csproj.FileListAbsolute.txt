@@ -1,0 +1,16 @@
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\bin\Debug\net5.0\01. The Biscuit Factory.exe
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\bin\Debug\net5.0\01. The Biscuit Factory.deps.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\bin\Debug\net5.0\01. The Biscuit Factory.runtimeconfig.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\bin\Debug\net5.0\01. The Biscuit Factory.runtimeconfig.dev.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\bin\Debug\net5.0\01. The Biscuit Factory.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\bin\Debug\net5.0\01. The Biscuit Factory.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\01. The Biscuit Factory.csproj.AssemblyReference.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\01. The Biscuit Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\01. The Biscuit Factory.AssemblyInfoInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\01. The Biscuit Factory.AssemblyInfo.cs
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\01. The Biscuit Factory.csproj.CoreCompileInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\01. The Biscuit Factory.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\refint\01. The Biscuit Factory.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\01. The Biscuit Factory.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\01. The Biscuit Factory.genruntimeconfig.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\01. The Biscuit Factory\obj\Debug\net5.0\ref\01. The Biscuit Factory.dll

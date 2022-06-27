@@ -1,0 +1,16 @@
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\bin\Debug\net5.0\demo.exe
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\bin\Debug\net5.0\demo.deps.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\bin\Debug\net5.0\demo.runtimeconfig.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\bin\Debug\net5.0\demo.runtimeconfig.dev.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\bin\Debug\net5.0\demo.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\bin\Debug\net5.0\demo.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\demo.csproj.AssemblyReference.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\demo.AssemblyInfoInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\demo.AssemblyInfo.cs
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\demo.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\refint\demo.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\demo.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\demo.genruntimeconfig.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\demo\obj\Debug\net5.0\ref\demo.dll

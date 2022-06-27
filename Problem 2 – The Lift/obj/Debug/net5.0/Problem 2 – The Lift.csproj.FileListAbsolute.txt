@@ -1,0 +1,16 @@
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\bin\Debug\net5.0\Problem 2 – The Lift.exe
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\bin\Debug\net5.0\Problem 2 – The Lift.deps.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\bin\Debug\net5.0\Problem 2 – The Lift.runtimeconfig.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\bin\Debug\net5.0\Problem 2 – The Lift.runtimeconfig.dev.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\bin\Debug\net5.0\Problem 2 – The Lift.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\bin\Debug\net5.0\Problem 2 – The Lift.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\Problem 2 – The Lift.csproj.AssemblyReference.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\Problem 2 – The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\Problem 2 – The Lift.AssemblyInfoInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\Problem 2 – The Lift.AssemblyInfo.cs
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\Problem 2 – The Lift.csproj.CoreCompileInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\Problem 2 – The Lift.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\refint\Problem 2 – The Lift.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\Problem 2 – The Lift.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\Problem 2 – The Lift.genruntimeconfig.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\Problem 2 – The Lift\obj\Debug\net5.0\ref\Problem 2 – The Lift.dll

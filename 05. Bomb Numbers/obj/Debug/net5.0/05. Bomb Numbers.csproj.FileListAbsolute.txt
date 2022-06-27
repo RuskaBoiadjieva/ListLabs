@@ -1,0 +1,16 @@
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.exe
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.deps.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.runtimeconfig.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\refint\05. Bomb Numbers.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.genruntimeconfig.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\05. Bomb Numbers\obj\Debug\net5.0\ref\05. Bomb Numbers.dll

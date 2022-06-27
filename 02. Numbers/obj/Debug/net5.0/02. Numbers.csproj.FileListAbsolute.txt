@@ -1,0 +1,16 @@
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\bin\Debug\net5.0\02. Numbers.exe
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\bin\Debug\net5.0\02. Numbers.deps.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\bin\Debug\net5.0\02. Numbers.runtimeconfig.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\bin\Debug\net5.0\02. Numbers.runtimeconfig.dev.json
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\bin\Debug\net5.0\02. Numbers.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\bin\Debug\net5.0\02. Numbers.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\02. Numbers.csproj.AssemblyReference.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\02. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\02. Numbers.AssemblyInfoInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\02. Numbers.AssemblyInfo.cs
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\02. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\02. Numbers.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\refint\02. Numbers.dll
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\02. Numbers.pdb
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\02. Numbers.genruntimeconfig.cache
+C:\Users\ruska\HomeworksC#Fundamentals\ListLabs\02. Numbers\obj\Debug\net5.0\ref\02. Numbers.dll
