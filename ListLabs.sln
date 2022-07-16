@@ -65,6 +65,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. School Library", "03. S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Computer Store", "01. Computer Store\01. Computer Store.csproj", "{5E5FCCA6-9128-4293-821E-D52E3CCEB02E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Memory Game", "03. Memory Game\03. Memory Game.csproj", "{0B208803-E61F-4116-B6E1-6CCF1C8E8EA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{5E5FCCA6-9128-4293-821E-D52E3CCEB02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E5FCCA6-9128-4293-821E-D52E3CCEB02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E5FCCA6-9128-4293-821E-D52E3CCEB02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B208803-E61F-4116-B6E1-6CCF1C8E8EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B208803-E61F-4116-B6E1-6CCF1C8E8EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B208803-E61F-4116-B6E1-6CCF1C8E8EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B208803-E61F-4116-B6E1-6CCF1C8E8EA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
